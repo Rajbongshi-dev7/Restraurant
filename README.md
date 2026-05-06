@@ -12,7 +12,6 @@ A high-performance, responsive restaurant landing page designed to showcase a pr
 
 ## ✨ Features
 * **Fully Responsive:** Optimized for mobile, tablet, and desktop viewing.
-* **Dynamic Navigation:** Smooth scrolling to different sections (Home, Menu, About, Contact).
 * **Modern UI:** High-contrast design focusing on readability and visual appeal.
 * **Optimized Performance:** Fast load times using vanilla code without heavy frameworks.
   

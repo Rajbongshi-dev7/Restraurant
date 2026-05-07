@@ -4,7 +4,7 @@ A high-performance, responsive restaurant landing page designed to showcase a pr
 
 ## 🚀 Live Demo
 
-[View Live Project](https://restraurant-doyals-projects.vercel.app/)
+[View Live Project](https://restraurant-git-main-doyals-projects.vercel.app/)
 
 ## 🛠️ Built With
 

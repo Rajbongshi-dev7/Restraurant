@@ -3,7 +3,7 @@
 A high-performance, responsive restaurant landing page designed to showcase a premium digital dining experience. This project focuses on clean UI/UX and smooth navigation using core web technologies.
 
 ## 🚀 Live Demo
-[View Live Project](https://restraurant-6hu2doag3-doyals-projects.vercel.app/)
+[View Live Project](https://restraurantthetasteat-j325m2vd4-doyals-projects.vercel.app/)
 
 ## 🛠️ Built With
 * **HTML5:** Semantic structure for better SEO and accessibility.
